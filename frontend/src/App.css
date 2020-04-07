@@ -23,13 +23,13 @@ body, input, button {
   padding: 0 20px;
   font-size: 16px;
   font-weight: bold;
-  background: #a52a2a;
+  background: #f05a5b;
   color: #fff;
   cursor: pointer;
 }
 
 .btn:hover {
-  background: #b22222;
+  background: #f06c5d;
 }
 
 /*==> background <==*/
